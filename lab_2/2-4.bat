@@ -1,5 +1,5 @@
 @echo off
-@title lab-2-4
+@title 2-4
 setlocal enabledelayedexpansion
 
 set "dir=%~1"
